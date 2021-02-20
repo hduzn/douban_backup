@@ -1,7 +1,7 @@
 # douban_backup
-douban readed books backup
+豆瓣读过的书的记录备份
 
-代码功能 books.py：
+代码功能实现(books.py)：
 
 将Douban 读过的书的记录保存到 ex/douban.xlsx 文件和 db/douban.db 数据库中。
 
